@@ -1,4 +1,3 @@
-# *Replit hosting expired - working on hosting it again*
 
 # Housing Price Prediction
 
@@ -7,6 +6,10 @@
  It was built during Major League Hacking's Local Hack Day: Build 2022
 
  The dataset can be found here: [Kaggle Competition Page](https://www.kaggle.com/c/lhd-build-2022)
+
+## Working on migrating to a production WSGI server
+
+### Watch a demo here: 
 
 ### Try it out at
 [housing-price-webapp](https://house-price.sammriddh.repl.co/)
