@@ -1,4 +1,6 @@
 # install the following 
 pandas
-sklearn
-Flask
+scikit-learn
+flask
+pickle 
+json
